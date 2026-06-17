@@ -5,13 +5,46 @@
 .body {
   padding: 20px;
   margin: 20px;
+  
 }
-.tech{
-  background-color: blue; font-size: 30px; margin-top: 20px; margin-bottom: 20px;
+.home{
+ display: flex; justify-content: center;gap:20px; font-size: 30px;}
+
+ :hover{
+    background-color: blue;
+ }
+ }
+.admission{
+    display: flex; justify-content: center;gap:20px; font-size: 30px;
 }
-.acade{
-    background-color: brown; font-size: 30px; margin-bottom: 20px;
+
 }
-.success{
-    background-color: gold; font-size: 30px; margin-bottom: 20px;
+.port{
+    display: flex; justify-content: center;gap:20px; font-size: 30px;}
+.service{display: flex; justify-content: center;gap:20px; font-size: 30px;
+}
+.div{
+display: flex; justify-content: center;gap:20px; font-size: 30px;
+}
+.image{
+    width: 400px; margin-top: 60px; justify-self: center;
+}
+.div1{
+    display: flex; gap: 20px; margin-top: 30px;
+    justify-content: center;
+}
+.learn{
+    background-color: brown; color: white; padding: 10px; border-radius: 10px; 
+
+}
+
+.learn:hover{
+    background-color: yellowgreen;
+}
+
+.apply{
+    background-color: brown; color: white; padding: 10px; border-radius: 10px;
+}
+.apply:hover{
+    background-color: yellowgreen;
 }
