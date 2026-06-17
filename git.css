@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.body {
+  padding: 20px;
+  margin: 20px;
+}
+.tech{
+  background-color: blue; font-size: 30px; margin-top: 20px; margin-bottom: 20px;
+}
+.acade{
+    background-color: brown; font-size: 30px; margin-bottom: 20px;
+}
+.success{
+    background-color: gold; font-size: 30px; margin-bottom: 20px;
+}
