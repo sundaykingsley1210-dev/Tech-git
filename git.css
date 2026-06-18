@@ -54,3 +54,6 @@ display: flex; justify-content: center;gap:20px; font-size: 30px;
 .login:hover{
     background-color: yellowgreen;
 }
+.success{
+    margin-top: 18px;justify-self: center;
+}
