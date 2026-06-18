@@ -48,3 +48,9 @@ display: flex; justify-content: center;gap:20px; font-size: 30px;
 .apply:hover{
     background-color: yellowgreen;
 }
+.login{
+    background-color: brown; color: white; padding: 10px; border-radius: 10px;
+}
+.login:hover{
+    background-color: yellowgreen;
+}
